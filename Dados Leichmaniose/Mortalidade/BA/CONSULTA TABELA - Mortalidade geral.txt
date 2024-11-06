@@ -1,0 +1,3 @@
+http://www3.saude.ba.gov.br/cgi/tabcgi.exe?sim/obito.def
+
+https://www.saude.ba.gov.br/suvisa/vigilancia-epidemiologica/agravos-morbidade-epidemiologia/

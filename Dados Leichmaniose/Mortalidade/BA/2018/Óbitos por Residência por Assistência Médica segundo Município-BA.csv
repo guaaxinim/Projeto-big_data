@@ -1,0 +1,437 @@
+Mortalidade geral - Bahia
+Óbitos por Residência por Município-BA e Assistência Médica
+Período:2018
+"Município-BA";"Sim";"Não";"Ignorado";"Total"
+"290010 Abaíra";15;3;44;62
+"290020 Abaré";15;14;72;101
+"290030 Acajutiba";38;21;51;110
+"290035 Adustina";20;3;50;73
+"290040 Água Fria";8;8;83;99
+"290060 Aiquara";5;-;25;30
+"290070 Alagoinhas";809;219;83;1111
+"290080 Alcobaça";60;47;60;167
+"290090 Almadina";7;3;41;51
+"290100 Amargosa";49;20;197;266
+"290110 Amélia Rodrigues";18;26;138;182
+"290115 América Dourada";21;13;61;95
+"290120 Anagé";12;9;140;161
+"290130 Andaraí";7;6;54;67
+"290135 Andorinha";6;40;21;67
+"290140 Angical";44;6;46;96
+"290150 Anguera";5;4;66;75
+"290160 Antas";21;14;52;87
+"290170 Antônio Cardoso";7;2;65;74
+"290180 Antônio Gonçalves";21;18;20;59
+"290190 Aporá";49;20;71;140
+"290195 Apuarema";1;1;41;43
+"290205 Araças";29;12;43;84
+"290200 Aracatu";14;6;62;82
+"290210 Araci";123;126;56;305
+"290220 Aramari";47;17;12;76
+"290225 Arataca";8;12;54;74
+"290230 Aratuípe";28;6;28;62
+"290240 Aurelino Leal";10;4;82;96
+"290250 Baianópolis";29;1;53;83
+"290260 Baixa Grande";95;20;17;132
+"290265 Banzaê";12;4;49;65
+"290270 Barra";36;19;259;314
+"290280 Barra da Estiva";34;10;113;157
+"290290 Barra do Choça";35;21;196;252
+"290300 Barra do Mendes";92;11;17;120
+"290310 Barra do Rocha";3;-;35;38
+"290320 Barreiras";522;77;209;808
+"290323 Barro Alto";96;12;15;123
+"290330 Barro Preto";5;4;49;58
+"290327 Barrocas";11;6;63;80
+"290340 Belmonte";98;27;25;150
+"290350 Belo Campo";9;2;121;132
+"290360 Biritinga";7;1;89;97
+"290370 Boa Nova";16;8;76;100
+"290380 Boa Vista do Tupim";10;6;78;94
+"290390 Bom Jesus da Lapa";240;124;33;397
+"290395 Bom Jesus da Serra";4;1;55;60
+"290400 Boninal";5;1;95;101
+"290405 Bonito";24;15;39;78
+"290410 Boquira";6;4;129;139
+"290420 Botuporã";4;4;55;63
+"290430 Brejões";9;7;85;101
+"290440 Brejolândia";14;2;12;28
+"290450 Brotas de Macaúbas";61;21;7;89
+"290460 Brumado";151;36;275;462
+"290470 Buerarema";16;6;95;117
+"290475 Buritirama";92;5;22;119
+"290480 Caatiba";1;-;27;28
+"290485 Cabaceiras do Paraguaçu";23;4;81;108
+"290490 Cachoeira";44;16;153;213
+"290500 Caculé";14;4;116;134
+"290510 Caém";6;1;61;68
+"290515 Caetanos";3;1;53;57
+"290520 Caetité";49;12;233;294
+"290530 Cafarnaum";31;11;68;110
+"290540 Cairu";32;19;22;73
+"290550 Caldeirão Grande";14;3;38;55
+"290560 Camacan";19;18;213;250
+"290570 Camaçari";571;94;741;1406
+"290580 Camamu";34;28;154;216
+"290590 Campo Alegre de Lourdes";25;107;12;144
+"290600 Campo Formoso";118;44;209;371
+"290610 Canápolis";12;5;22;39
+"290620 Canarana";97;23;8;128
+"290630 Canavieiras";159;17;85;261
+"290640 Candeal";10;1;45;56
+"290650 Candeias";129;18;386;533
+"290660 Candiba";20;4;88;112
+"290670 Cândido Sales";22;5;159;186
+"290680 Cansanção";36;17;182;235
+"290682 Canudos";8;8;57;73
+"290685 Capela do Alto Alegre";50;4;20;74
+"290687 Capim Grosso";91;61;46;198
+"290689 Caraíbas";13;6;53;72
+"290690 Caravelas";23;21;72;116
+"290700 Cardeal da Silva";9;8;25;42
+"290710 Carinhanha";36;7;152;195
+"290720 Casa Nova";125;173;59;357
+"290730 Castro Alves";136;13;53;202
+"290740 Catolândia";11;-;16;27
+"290750 Catu";142;46;164;352
+"290755 Caturama";8;1;35;44
+"290760 Central";78;9;8;95
+"290770 Chorrochó";6;3;57;66
+"290780 Cícero Dantas";39;13;176;228
+"290790 Cipó";44;8;59;111
+"290800 Coaraci";21;14;159;194
+"290810 Cocos";13;5;62;80
+"290820 Conceição da Feira";17;7;113;137
+"290830 Conceição do Almeida";34;9;97;140
+"290840 Conceição do Coité";314;38;63;415
+"290850 Conceição do Jacuípe";49;19;146;214
+"290860 Conde";67;19;50;136
+"290870 Condeúba";30;6;80;116
+"290880 Contendas do Sincorá";3;1;19;23
+"290890 Coração de Maria";39;10;123;172
+"290900 Cordeiros";3;2;49;54
+"290910 Coribe";22;18;31;71
+"290920 Coronel João Sá";35;7;49;91
+"290930 Correntina";17;13;112;142
+"290940 Cotegipe";18;6;46;70
+"290950 Cravolândia";2;-;34;36
+"290960 Crisópolis";24;16;106;146
+"290970 Cristópolis";25;5;34;64
+"290980 Cruz das Almas";67;41;310;418
+"290990 Curaçá";83;38;60;181
+"291000 Dário Meira";21;7;50;78
+"291005 Dias d'Ávila";226;16;150;392
+"291010 Dom Basílio";18;7;48;73
+"291020 Dom Macedo Costa";6;5;33;44
+"291030 Elísio Medrado";20;10;26;56
+"291040 Encruzilhada";12;8;100;120
+"291050 Entre Rios";62;54;142;258
+"290050 Érico Cardoso";8;2;66;76
+"291060 Esplanada";45;39;125;209
+"291070 Euclides da Cunha";96;25;272;393
+"291072 Eunápolis";328;86;297;711
+"291075 Fátima";28;13;63;104
+"291077 Feira da Mata";8;1;19;28
+"291080 Feira de Santana";592;276;2857;3725
+"291085 Filadélfia";9;4;94;107
+"291090 Firmino Alves";-;-;45;45
+"291100 Floresta Azul";17;3;62;82
+"291110 Formosa do Rio Preto";40;5;64;109
+"291120 Gandu";97;25;75;197
+"291125 Gavião";12;1;7;20
+"291130 Gentio do Ouro";16;6;42;64
+"291140 Glória";16;7;75;98
+"291150 Gongogi";3;2;47;52
+"291160 Governador Mangabeira";23;18;90;131
+"291165 Guajeru";29;1;24;54
+"291170 Guanambi";282;22;204;508
+"291180 Guaratinga";64;14;34;112
+"291185 Heliópolis";22;5;40;67
+"291190 Iaçu";65;19;91;175
+"291200 Ibiassucê";9;1;55;65
+"291210 Ibicaraí";51;38;103;192
+"291220 Ibicoara";18;7;49;74
+"291230 Ibicuí";14;2;94;110
+"291240 Ibipeba";46;10;26;82
+"291250 Ibipitanga";3;3;75;81
+"291260 Ibiquera";5;1;13;19
+"291270 Ibirapitanga";12;9;129;150
+"291280 Ibirapuã";32;5;9;46
+"291290 Ibirataia";10;6;156;172
+"291300 Ibitiara";10;10;98;118
+"291310 Ibititá";22;6;50;78
+"291320 Ibotirama";25;23;141;189
+"291330 Ichu";2;5;25;32
+"291340 Igaporã";43;3;39;85
+"291345 Igrapiúna";13;18;33;64
+"291350 Iguaí";8;1;155;164
+"291360 Ilhéus";502;106;793;1401
+"291370 Inhambupe";69;43;114;226
+"291380 Ipecaetá";5;3;73;81
+"291390 Ipiaú";69;23;273;365
+"291400 Ipirá";25;33;378;436
+"291410 Ipupiara";66;5;8;79
+"291420 Irajuba";6;2;41;49
+"291430 Iramaia";16;3;30;49
+"291440 Iraquara";76;13;46;135
+"291450 Irará";126;35;58;219
+"291460 Irecê";290;94;19;403
+"291465 Itabela";125;26;28;179
+"291470 Itaberaba";110;51;316;477
+"291480 Itabuna";362;88;1167;1617
+"291490 Itacaré";30;17;74;121
+"291500 Itaeté";16;11;44;71
+"291510 Itagi";13;3;89;105
+"291520 Itagibá";12;7;71;90
+"291530 Itagimirim";15;6;29;50
+"291535 Itaguaçu da Bahia";28;14;42;84
+"291540 Itaju do Colônia";9;1;48;58
+"291550 Itajuípe";22;10;148;180
+"291560 Itamaraju";108;82;258;448
+"291570 Itamari";18;7;32;57
+"291580 Itambé";61;3;94;158
+"291590 Itanagra";10;6;16;32
+"291600 Itanhém";114;17;9;140
+"291610 Itaparica";39;34;75;148
+"291620 Itapé";7;2;76;85
+"291630 Itapebi";28;11;25;64
+"291640 Itapetinga";24;5;480;509
+"291650 Itapicuru";40;15;146;201
+"291660 Itapitanga";7;2;58;67
+"291670 Itaquara";5;-;38;43
+"291680 Itarantim";9;3;95;107
+"291685 Itatim";21;6;73;100
+"291690 Itiruçu";11;3;89;103
+"291700 Itiúba";24;23;146;193
+"291710 Itororó";9;2;138;149
+"291720 Ituaçu";24;7;83;114
+"291730 Ituberá";32;24;97;153
+"291733 Iuiú";20;1;34;55
+"291735 Jaborandi";8;4;50;62
+"291740 Jacaraci";16;5;72;93
+"291750 Jacobina";63;23;462;548
+"291760 Jaguaquara";31;12;320;363
+"291770 Jaguarari";16;10;148;174
+"291780 Jaguaripe";20;5;56;81
+"291790 Jandaíra";24;4;33;61
+"291800 Jequié";190;103;904;1197
+"291810 Jeremoabo";28;27;162;217
+"291820 Jiquiriçá";22;5;58;85
+"291830 Jitaúna";16;2;78;96
+"291835 João Dourado";53;12;79;144
+"291840 Juazeiro";414;169;787;1370
+"291845 Jucuruçu";23;10;8;41
+"291850 Jussara";33;11;58;102
+"291855 Jussari";9;1;41;51
+"291860 Jussiape";11;3;35;49
+"291870 Lafaiete Coutinho";7;1;35;43
+"291875 Lagoa Real";19;-;26;45
+"291880 Laje";27;11;88;126
+"291890 Lajedão";23;2;8;33
+"291900 Lajedinho";8;4;16;28
+"291905 Lajedo do Tabocal";5;1;48;54
+"291910 Lamarão";3;3;38;44
+"291915 Lapão";44;15;85;144
+"291920 Lauro de Freitas";342;31;727;1100
+"291930 Lençóis";8;6;25;39
+"291940 Licínio de Almeida";7;1;61;69
+"291950 Livramento de Nossa Senhora";61;18;168;247
+"291955 Luís Eduardo Magalhães";90;49;130;269
+"291960 Macajuba";11;8;62;81
+"291970 Macarani";22;2;100;124
+"291980 Macaúbas";37;13;246;296
+"291990 Macururé";4;5;39;48
+"291992 Madre de Deus";75;8;27;110
+"291995 Maetinga";7;-;49;56
+"292000 Maiquinique";7;-;49;56
+"292010 Mairi";14;6;118;138
+"292020 Malhada";29;2;58;89
+"292030 Malhada de Pedras";12;4;38;54
+"292040 Manoel Vitorino";14;5;48;67
+"292045 Mansidão";10;2;30;42
+"292050 Maracás";39;20;119;178
+"292060 Maragogipe";81;33;187;301
+"292070 Maraú";17;5;64;86
+"292080 Marcionílio Souza";12;5;39;56
+"292090 Mascote";12;6;75;93
+"292100 Mata de São João";88;1;189;278
+"292105 Matina";13;4;42;59
+"292110 Medeiros Neto";141;24;26;191
+"292120 Miguel Calmon";12;3;194;209
+"292130 Milagres";21;6;49;76
+"292140 Mirangaba";4;4;78;86
+"292145 Mirante";5;3;33;41
+"292150 Monte Santo";25;15;262;302
+"292160 Morpará";49;6;6;61
+"292170 Morro do Chapéu";92;30;69;191
+"292180 Mortugaba";14;-;59;73
+"292190 Mucugê";23;6;45;74
+"292200 Mucuri";74;33;61;168
+"292205 Mulungu do Morro";32;12;45;89
+"292210 Mundo Novo";51;52;23;126
+"292220 Muniz Ferreira";22;6;37;65
+"292225 Muquém de São Francisco";20;4;26;50
+"292230 Muritiba";50;15;124;189
+"292240 Mutuípe";42;10;88;140
+"292250 Nazaré";128;25;45;198
+"292260 Nilo Peçanha";24;5;30;59
+"292265 Nordestina";5;7;51;63
+"292270 Nova Canaã";6;4;101;111
+"292273 Nova Fátima";15;7;12;34
+"292275 Nova Ibiá";10;-;22;32
+"292280 Nova Itarana";9;3;33;45
+"292285 Nova Redenção";7;15;29;51
+"292290 Nova Soure";33;10;88;131
+"292300 Nova Viçosa";163;32;17;212
+"292303 Novo Horizonte";11;4;62;77
+"292305 Novo Triunfo";8;3;43;54
+"292310 Olindina";21;18;107;146
+"292320 Oliveira dos Brejinhos";117;18;20;155
+"292330 Ouriçangas";16;2;31;49
+"292335 Ourolândia";11;2;86;99
+"292340 Palmas de Monte Alto";19;4;116;139
+"292350 Palmeiras";8;5;40;53
+"292360 Paramirim";41;6;103;150
+"292370 Paratinga";37;15;140;192
+"292380 Paripiranga";47;9;134;190
+"292390 Pau Brasil";4;3;57;64
+"292400 Paulo Afonso";211;66;500;777
+"292405 Pé de Serra";75;5;16;96
+"292410 Pedrão";26;6;26;58
+"292420 Pedro Alexandre";19;15;31;65
+"292430 Piatã";20;3;115;138
+"292440 Pilão Arcado";53;52;53;158
+"292450 Pindaí";26;6;74;106
+"292460 Pindobaçu";56;53;13;122
+"292465 Pintadas";9;5;34;48
+"292467 Piraí do Norte";7;5;24;36
+"292470 Piripá";13;1;59;73
+"292480 Piritiba";5;2;126;133
+"292490 Planaltino";9;1;36;46
+"292500 Planalto";7;11;163;181
+"292510 Poções";305;22;69;396
+"292520 Pojuca";68;38;109;215
+"292525 Ponto Novo";40;37;14;91
+"292530 Porto Seguro";257;166;390;813
+"292540 Potiraguá";10;-;49;59
+"292550 Prado";71;31;74;176
+"292560 Presidente Dutra";43;7;50;100
+"292570 Presidente Jânio Quadros";12;7;59;78
+"292575 Presidente Tancredo Neves";36;15;86;137
+"292580 Queimadas";7;7;121;135
+"292590 Quijingue";7;6;139;152
+"292593 Quixabeira";20;10;26;56
+"292595 Rafael Jambeiro";10;4;120;134
+"292600 Remanso";55;24;145;224
+"292610 Retirolândia";8;3;74;85
+"292620 Riachão das Neves";50;9;65;124
+"292630 Riachão do Jacuípe";79;21;140;240
+"292640 Riacho de Santana";132;60;15;207
+"292650 Ribeira do Amparo";24;6;48;78
+"292660 Ribeira do Pombal";98;15;261;374
+"292665 Ribeirão do Largo";10;-;30;40
+"292670 Rio de Contas";46;6;46;98
+"292680 Rio do Antônio";16;4;44;64
+"292690 Rio do Pires";11;1;56;68
+"292700 Rio Real";67;46;136;249
+"292710 Rodelas";5;8;34;47
+"292720 Ruy Barbosa";85;15;142;242
+"292730 Salinas da Margarida";22;10;43;75
+"292740 Salvador";6477;3085;6659;16221
+"292750 Santa Bárbara";27;23;108;158
+"292760 Santa Brígida";15;5;45;65
+"292770 Santa Cruz Cabrália";54;37;67;158
+"292780 Santa Cruz da Vitória";4;4;35;43
+"292790 Santa Inês";20;3;58;81
+"292805 Santa Luzia";14;8;66;88
+"292810 Santa Maria da Vitória";26;16;180;222
+"292840 Santa Rita de Cássia";60;20;84;164
+"292850 Santa Teresinha";21;6;37;64
+"292800 Santaluz";16;6;192;214
+"292820 Santana";17;12;141;170
+"292830 Santanópolis";5;1;50;56
+"292860 Santo Amaro";75;43;264;382
+"292870 Santo Antônio de Jesus";156;83;440;679
+"292880 Santo Estêvão";16;13;323;352
+"292890 São Desidério";64;5;86;155
+"292895 São Domingos";38;15;10;63
+"292910 São Felipe";37;11;97;145
+"292900 São Félix";20;6;70;96
+"292905 São Félix do Coribe";6;20;63;89
+"292920 São Francisco do Conde";45;18;143;206
+"292925 São Gabriel";34;12;62;108
+"292930 São Gonçalo dos Campos";25;7;186;218
+"292935 São José da Vitória";4;6;52;62
+"292937 São José do Jacuípe";19;8;44;71
+"292940 São Miguel das Matas";13;7;36;56
+"292950 São Sebastião do Passé";51;3;180;234
+"292960 Sapeaçu";30;17;76;123
+"292970 Sátiro Dias";46;22;58;126
+"292975 Saubara";8;7;65;80
+"292980 Saúde";7;2;73;82
+"292990 Seabra";15;15;256;286
+"293000 Sebastião Laranjeiras";23;2;30;55
+"293010 Senhor do Bonfim";91;33;363;487
+"293020 Sento Sé";39;12;96;147
+"293015 Serra do Ramalho";41;24;107;172
+"293030 Serra Dourada";74;9;8;91
+"293040 Serra Preta";14;4;115;133
+"293050 Serrinha";69;61;348;478
+"293060 Serrolândia";11;2;74;87
+"293070 Simões Filho";117;13;654;784
+"293075 Sítio do Mato";13;7;38;58
+"293076 Sítio do Quinto";14;2;49;65
+"293077 Sobradinho";31;67;22;120
+"293080 Souto Soares";24;10;78;112
+"293090 Tabocas do Brejo Velho";20;1;38;59
+"293100 Tanhaçu";22;13;93;128
+"293105 Tanque Novo";60;3;35;98
+"293110 Tanquinho";4;-;64;68
+"293120 Taperoá";28;13;49;90
+"293130 Tapiramutá";7;6;63;76
+"293135 Teixeira de Freitas";387;184;418;989
+"293140 Teodoro Sampaio";11;1;36;48
+"293150 Teofilândia";9;11;83;103
+"293160 Teolândia";18;7;52;77
+"293170 Terra Nova";7;3;50;60
+"293180 Tremedal";27;6;94;127
+"293190 Tucano";20;16;193;229
+"293200 Uauá";42;12;115;169
+"293210 Ubaíra";29;20;79;128
+"293220 Ubaitaba";22;10;123;155
+"293230 Ubatã";12;5;134;151
+"293240 Uibaí";44;14;29;87
+"293245 Umburanas";6;4;44;54
+"293250 Una";73;20;79;172
+"293260 Urandi";18;1;82;101
+"293270 Uruçuca";37;12;102;151
+"293280 Utinga";37;23;47;107
+"293290 Valença";315;185;59;559
+"293300 Valente";11;9;105;125
+"293305 Várzea da Roça";10;1;68;79
+"293310 Várzea do Poço";15;1;46;62
+"293315 Várzea Nova";3;7;69;79
+"293317 Varzedo";16;2;42;60
+"293320 Vera Cruz";75;65;115;255
+"293325 Vereda";39;7;17;63
+"293330 Vitória da Conquista";368;145;1642;2155
+"293340 Wagner";41;9;7;57
+"293345 Wanderley";22;3;43;68
+"293350 Wenceslau Guimarães";18;26;81;125
+"293360 Xique-Xique";89;42;200;331
+"290000 Município ignorado - BA";55;126;169;350
+"Total";27210;10635;52463;90308
+ Fonte: SESAB/SUVISA/DIVEP/Sistema de Informação sobre Mortalidade - SIM
+ 
+ Notas:
+ 
+   Dados sobre óbitos não fetais de residentes na Bahia, independentemente da UF de ocorrênca.
+   "Períodos Disponíveis" refere-se ao ano de ocorrência do óbito.
+   Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas.
+Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+   Nas tabulações por Estabelecimento de saúde, foram consideradas as unidades que declararam pelo menos um óbito no SIM.
+   Os dados de 2006 a 2013 podem estar quantitativamente diferentes da divulgação de outras fontes, em virtude de atualizações posteriores que são feitas no Estado.
+   Última atualização realizada em 17/10/2024.
+ 
